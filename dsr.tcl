@@ -52,7 +52,7 @@ $node_(0) set X_ 5.0
 $node_(0) set Y_ 5.0
 $node_(0) set Z_ 0.0
 
-$node_(1) set X_ 490.0
+$node_(1) set X_ 470.0
 $node_(1) set Y_ 290.0
 $node_(1) set Z_ 0.0
 
